@@ -1,2 +1,2 @@
-# landenT-alt.github.io
+# CS-499 eportfolio
 INTRODUCTION
